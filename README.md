@@ -5,7 +5,8 @@
 
 ### Hi there 👋
 
-I'm Byeongcheol Kim, 
+I'm Byeongcheol Kim,     
+📫 How to reach me: gch04602@dgu.ac.kr 
 
 ### ✨ Interest 
 
@@ -30,18 +31,16 @@ Python, Java, C++
 |2019.12-2020.02|DateScience 4IR Bridge School|Dongguk.Univ|
 
 
+
+
 ### Software Engineer 
-
-
-
-📫 How to reach me: gch04602@dgu.ac.kr 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BottleChrome)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Problem Solving 
+### Problem Solving 
 
-Using Python , C++
+Using Python , Java, C++
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gch04602)](https://solved.ac/gch04602)
 
